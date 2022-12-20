@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Website</title>
+    
+    <link rel="stylesheet" href="css/jonkleinberg.css">
+    </head>
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="jonkleinberg.css">
+
+
+
+<body>
+    <h1>Jon Kleinberg</h1>
+
+    <aside>
+        <img src="https://www.engineering.cornell.edu/sites/default/files/departments/ORIE/faculty%20images/560x560/Jon%20Kleinberg%20-%20560x560.jpg"
+            height="150" width="150">
+        <p>Jon Michael Kleinberg is an American computer scientist and the Tisch University Professor of Computer
+            Science and Information Science at Cornell University known for his work in algorithms and networks. He is a
+            recipient of the Nevanlinna Prize by the International Mathematical Union</p>
+
+    </aside>
+    <br>
+    <address>
+        <span>Tisch University Professor</span>
+        <span>Department of <a href="http://www.cs.cornell.edu/" target="_blank">Computer science</a></span>
+        <p>Department of <a href="http://www.infosci.cornell.edu/" target="_blank">Information Technology</a></p>
+        <p><a href="http://cuinfo.cornell.edu/" target="_blank">Cornell University</a></p>
+        <p>Ithaca, NY 14853</p>
+    </address>
+    <p>I am a professor at Cornell University. My research focuses on algorithms and networks, the roles they play in
+        large-scale social and information systems, and their broader societal implications. My work has been supported
+        by an NSF Career Award, an ONR Young Investigator Award, a <a
+            href="http://www.macfound.org/fellows/763/">MacArthur Foundation Fellowship,</a> a <a
+            href="http://www.packard.org/what-we-fund/conservation-and-science/packard-fellowships-for-science-and-engineering/">
+            Packard
+            Foundation Fellowship,</a> a<a
+            href="https://www.simonsfoundation.org/mathematics-physical-sciences/simons-investigators/simons-investigators-awardees/">
+            Simons
+            Investigator Award,</a>a<a href="http://www.sloan.org/fellowships"> Sloan Foundation Fellowship</a>,a<a
+            href="https://basicresearch.defense.gov/Programs/Vannevar-Bush-Faculty-Fellowship/">Vannevar Bush Faculty
+            Fellowship</a> and grants from Facebook, Google, Yahoo, the MacArthur Foundation, the ARO, and the NSF. I am
+        a member of the<a href="http://www.nasonline.org/"> National Academy of Sciences,</a>,and the<a
+            href="http://www.amacad.org/"> American Academy of Arts and Sciences.</a>
+    </p>
+    <span>Link to contact for more information or details : <a
+            href="https://www.cs.cornell.edu/home/kleinber/#contact">Contact the advisor</a></span>
+    <hr size="3">
+    <p>
+    <h3><b>Books and Teaching</b></h3>
+    <ul type="*">
+        <li>
+            In Spring 2022, <a href="https://www.karen-levy.net/">Karen Levy</a> and I are teaching <a
+                href="https://courses.cs.cornell.edu/cs1340/">Choices and Consequences in Computing (INFO 1260 / CS
+                1340).</a> The course is designed at an introductory level with no formal prerequisites, and covers a
+            range of ethical, societal, and policy implications of computing and information.
+        </li>
+        <li>
+            <p>
+                D. Easley, J. Kleinberg.<a href="http://www.cs.cornell.edu/home/kleinber/networks-book/">Networks,
+                    Crowds, and Markets: Reasoning About a Highly Connected World.</a>
+                Cambridge University Press, 2010
+            </p>
+            <ul type="~">
+                <li>
+                    This book is based on an inter-disciplinary course that we teach entitled <a
+                        href="https://courses.cit.cornell.edu/info2040_2017fa/">Networks</a>The book, like the course,
+                    is designed at the introductory undergraduate level with no formal prerequisites. To support deeper
+                    explorations, most of the chapters are supplemented with optional advanced sections.
+                </li>
+            </ul>
+        </li>
+        <li>
+            <p> J. Kleinberg, E. Tardos.<a
+                    href="https://www.pearson.com/us/higher-education/program/Kleinberg-Algorithm-Design/PGM319216.html">Algorithm
+                    Design.</a> Addison Wesley, 2005.</p>
+        </li>
+        <ul type="~">
+            <li>
+                This book is based on the undergraduate algorithms course that we both teach. We also use the more
+                advanced parts for our graduate algorithms course.
+            </li>
+        </ul>
+        <li>
+            Recent courses at Cornell:
+            <ul type="~">
+                <li>
+                    <p><a href="https://www.cs.cornell.edu/courses/cs6850/">The Structure of Information Networks</a>(CS
+                        6850).
+                    </p>
+                    <p><a href="https://courses.cit.cornell.edu/info2040_2017fa/">Networks</a>(with David Easley and Eva
+                        Tardos; ECON 2040 / SOC 2090 / CS 2850 / INFO 2040).
+                    </p>
+
+                </li>
+            </ul>
+        </li>
+    </ul>
+    <hr size="3">
+    <h3>Advising</h3>
+    <ul type="@gt">
+        <li>
+            Current and former Ph.D. students: Anna Evtushenko, Katherine Van Koevering, Kate Donahue, Katy Blumer,
+            Michela Meister, Kiran Tomlinson, Cazamere Comrie, Marios Papachristou, Yanbang Wang, Manish Raghavan (MIT),
+            Maithra Raghu (Google), Rediet Abebe (Berkeley; Harvard Society of Fellows), Rahmtin Rotabi (Google), Isabel
+            Kloumann (Facebook), Johan Ugander (Stanford), Sigal Oren (Ben-Gurion Univ), Daniel Romero (U. Michigan),
+            Lars Backstrom (Facebook), Alex Slivkins (Microsoft Research), Mark Sandler (Google), Elliot Anshelevich
+            (RPI), David Kempe (USC), Amit Kumar (IIT Dehli), Debra Goldberg (CU Boulder).
+        </li>
+        <br>
+        <li>
+            Current and former postdocs: Jonas Juul, Nate Veldt (TAMU), Hoda Heidari (CMU), Austin Benson (Cornell),
+            Flavio Chierichetti (Sapienza University of Rome), Jure Leskovec (Stanford), Sid Suri (Microsoft Research),
+            Gregory Kossinets. (Google), Mohammad Mahdian (Google), Frank McSherry (Microsoft Research) Anupam Gupta
+            (CMU).
+
+        </li>
+    </ul>
+    <hr>
+    <h3>Research Papers</h3>
+    <p>The papers below are also available in a <a
+            href="https://www.cs.cornell.edu/home/kleinber/chrono.html">chronological list</a>Additional bibliographic
+        information can be found at <a href="https://dblp.uni-trier.de/pers/hd/k/Kleinberg:Jon_M=.html">DBLP</a>and <a
+            href="http://scholar.google.com/citations?user=VX7d5EQAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
+    </p>
+    <hr>
+    <h3>Recent Papers</h3>
+    <ul>
+        <li>
+            <p>J. Kleinberg, M. Raghavan, S. Mullainathan.<a href="https://arxiv.org/abs/2202.11776">The Challenge of
+                    Understanding What Users Want: Inconsistent Preferences and Engagement Optimization.</a>
+            </p>
+        <li>
+            <p>
+                R. Abebe, L. Adamic, J. Kleinberg.<a href="https://arxiv.org/abs/1709.04123">Mitigating Overexposure in
+                    Viral Marketing.</a>Proc. 32nd AAAI Conference on Artificial Intelligence (AAAI-18), 2018.
+            </p>
+        </li>
+        <li>
+            <p>
+                D. Fudenberg, J. Kleinberg, A. Liang, S. Mullainathan.<a
+                    href="https://www.cs.cornell.edu/home/kleinber/jpe22-completeness.pdf">Measuring the Completeness of
+                    Economic Models.</a> Journal of Political Economy, 2022.
+            </p>
+        </li>
+        <li>
+            <p>
+                N. Veldt, A. Benson, J. Kleinberg. Hypergraph Cuts with General Splitting Functions. SIAM Review, to
+                appear, 2022.
+            </p>
+        </li>
+        <li>
+            <p>
+                M. Papachristou, J. Kleinberg. Allocating Stimulus Checks in Times of Crisis. Proc. 31st International
+                World Wide Web Conference, 2022.
+            </p>
+        </li>
+        <li>
+            <p>
+                R. Abebe, T-H Chan, J. Kleinberg, Z. Liang, D. Parkes, M. Sozio, C. Tsourakakis. Opinion Dynamics with
+                Varying Susceptibility to Persuasion via Non-Convex Local Search. ACM Transactions on Knowledge
+                Discovery from Data, 2022.
+            </p>
+        </li>
+        <li>
+            <p>
+                J. Kleinberg, M. Raghavan. Algorithmic Monoculture and Social Welfare. Proc. National Academy of
+                Sciences, 118(22), 1 June 2021.
+            </p>
+        </li>
+
+        </li>
+    </ul>
+    <hr>
+    <h3>Web Analysis and Search: Hubs and Authorities</h3>
+    <ul type="*">
+        <li>
+
+            J. Kleinberg.<a href="https://www.cs.cornell.edu/home/kleinber/auth.pdf">Authoritative sources in a
+                hyperlinked environment.</a>Proc. 9th ACM-SIAM Symposium on Discrete Algorithms, 1998. Extended version
+            in Journal of the ACM 46(1999). Also appears as IBM Research Report RJ 10076, May 1997.
+
+        </li>
+        <li>
+            <p>
+                D. Gibson, J. Kleinberg, P. Raghavan<a
+                    href="https://www.cs.cornell.edu/home/kleinber/ht98-comm.pdf">Inferring Web communities from link
+                    topology.</a>Proc. 9th ACM Conference on Hypertext and Hypermedia, 1998.
+            </p>
+        </li>
+        <li>
+            <p>
+                S. Chakrabarti, B. Dom, D. Gibson, J. Kleinberg, P. Raghavan, S. Rajagopalan, Automatic resource list
+                compilation by analyzing hyperlink structure and associated text. Proc. 7th International World Wide Web
+                Conference, 1998.
+            </p>
+        </li>
+        <li>
+            <p>
+                S. Chakrabarti, B. Dom, D. Gibson, J. Kleinberg, S.R. Kumar, P. Raghavan, S. Rajagopalan, A. Tomkins,
+                Hypersearching the Web. Scientific American, June 1999.
+            </p>
+        </li>
+        <li>
+            <p>
+                S. Chakrabarti, B. Dom, D. Gibson, J. Kleinberg, S.R. Kumar, P. Raghavan, S. Rajagopalan, A. Tomkins,
+                Mining the link structure of the World Wide Web. IEEE Computer, August 1999.
+            </p>
+        </li>
+    </ul>
+    <hr>
+    <fieldset>
+        <h3>Contact Information</h3>
+        <address>
+            <p>Jon Kleinberg<br>
+                Computing and Information Science<br>
+                Gates Hall<br>
+                Cornell University<br>
+                Ithaca, NY 14853<br>
+                (607)255-9197</p>
+            <link rel="stylesheet"
+                href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+            <a href="www.facebook.com" class="fa fa-facebook" target="_blank"></a>
+            <a href="www.twitter.com" class="fa fa-twitter" target="_blank"></a>
+            <a href="www.instagram.com" class="fa fa-instagram" target="_blank"></a>
+            <a href="https://www.youtube.com/" class="fa fa-youtube" target="_blank"></a>
+
+
+        </address>
+
+    </fieldset>
+    <br>
+    <fieldset>
+        <h4>You can enter your details below</h4>
+        <h5>User details :</h5>
+        <form>
+            <label>How its going?</label>
+            <input type="text">
+
+            <p>NAME : <input type="text"></p>
+            <p>Gender : <input type="radio">Male
+                <input type="radio">Female
+            </p>
+            <p>Email : <input type="email"></p>
+            <p>Address :<input type="text"></p>
+            <p>Liked it : Yes<input type="radio"> No <input type="radio"></p>
+            <p><input type="submit"></p>
+
+
+
+        </form>
+
+
+    </fieldset>
+    <h1>Hobbies</h1>
+    <ol>
+        <a
+            href="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.cs.cornell.edu%2Fannual_report%2FKleinberg.htm&psig=AOvVaw2IsijyGa6UwSjLGpgoHOUv&ust=1654260906304000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICN3p7ojvgCFQAAAAAdAAAAABAD">My
+            hobbies</a>
+
+    </ol>
+    <hr>
+    <table border ="5">
+        <tr>
+            <th><strong>Name</strong></th>
+            <th>Job profile</td>
+            <th>Salary</th>
+        </tr>
+        <tr>
+            <td>Jon Kleinberg</td>
+            <td>American computer scientist</td>
+            <td>$70k</td>
+        </tr>
+        <tr colspan="3">yes</tr>
+        <td>7689</td>
+
+
+
+
+    </table>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="https://simonsfoundation.imgix.net/wp-content/uploads/2013/03/06120132/Kleinberg_012.jpg?auto=format&q=90"
+                    width="150" height="150"></td>
+            <td>Age : 67
+                <p>job profile : Computer scientist</p>
+
+            </td>
+
+
+        </tr>
+    </table>
+    <p>Copyright &copy;
+        <script>document.write(new Date().getFullYear())</script> Your Name All Rights Reserved
+    </p>
+
+
+
+
+</body>
+
+</html>
