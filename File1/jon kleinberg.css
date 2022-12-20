@@ -1,0 +1,40 @@
+aside {
+    width: 30%;
+    padding-left: 10px;
+    font-style: italic;
+    background-color: rgb(208, 255, 0);
+    bottom: 30px;
+    padding-bottom: 10px;
+}
+
+img {
+    height: 175px;
+}
+
+hr {
+    height: 0%;
+    width: 3%;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: brown;
+}
+body {
+    background-color: cornsilk;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    
+}
+h1 {
+    color: brown;
+    font-style: italic;
+    width: fit-content;
+}
+h3 {
+    color: brown;
+}
